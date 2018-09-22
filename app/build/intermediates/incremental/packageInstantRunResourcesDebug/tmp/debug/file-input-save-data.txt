@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Sat Sep 22 10:27:51 IST 2018
+1.base=C\:\\Users\\VIMALKUMAR\\AndroidStudioProjects\\Android-Music-Player-master\\app\\build\\intermediates\\assets\\debug
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=sound.ogg
+0.set=ASSET
+0.base=C\:\\Users\\VIMALKUMAR\\AndroidStudioProjects\\Android-Music-Player-master\\app\\build\\intermediates\\assets\\debug
+1.path=RobotoCondensed-Regular.ttf

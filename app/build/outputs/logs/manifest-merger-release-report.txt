@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:2:1-51:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\VIMALKUMAR\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\dd3f3222e949157f2f8bc05894b20019\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:palette-v7:27.1.1] C:\Users\VIMALKUMAR\.gradle\caches\transforms-1\files-1.1\palette-v7-27.1.1.aar\3741ca9eb0a1032c16d97ae6794c5a79\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\VIMALKUMAR\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\01856050a82c39f8e85690a24df0fe69\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\VIMALKUMAR\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\f152dacb8319104850d08ebd70b10b1b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\VIMALKUMAR\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\3f3190dd0abd6cc137a093e048dddc96\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\VIMALKUMAR\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\3276cebaf259d748738b1c818aec17d7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\VIMALKUMAR\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\ba7f06c31a147323e14ee842dabc76dd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\VIMALKUMAR\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e85ba8890526e54a6c0d7b6109fbdf0b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\VIMALKUMAR\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\772552ed813d832a251dedab28d422b2\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\VIMALKUMAR\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c9b18037af6fc472d08e6a296fcedde6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\VIMALKUMAR\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\81ff2c99fd45ca94a532ac81d53b5aaa\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\VIMALKUMAR\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\43537ab8dd8ea26ee533dafa33819df8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\VIMALKUMAR\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2f8d40c0dedd1f311d51aaf0c8602205\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:2:1-51:12
+	package
+		ADDED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:4:5-38
+		INJECTED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:6:5-32
+		INJECTED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:5:5-29
+		INJECTED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:8:5-10:41
+INJECTED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:8:5-10:41
+INJECTED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\VIMALKUMAR\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\dd3f3222e949157f2f8bc05894b20019\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\VIMALKUMAR\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\dd3f3222e949157f2f8bc05894b20019\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:27.1.1] C:\Users\VIMALKUMAR\.gradle\caches\transforms-1\files-1.1\palette-v7-27.1.1.aar\3741ca9eb0a1032c16d97ae6794c5a79\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:27.1.1] C:\Users\VIMALKUMAR\.gradle\caches\transforms-1\files-1.1\palette-v7-27.1.1.aar\3741ca9eb0a1032c16d97ae6794c5a79\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\VIMALKUMAR\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\01856050a82c39f8e85690a24df0fe69\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\VIMALKUMAR\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\01856050a82c39f8e85690a24df0fe69\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\VIMALKUMAR\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\f152dacb8319104850d08ebd70b10b1b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\VIMALKUMAR\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\f152dacb8319104850d08ebd70b10b1b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\VIMALKUMAR\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\3f3190dd0abd6cc137a093e048dddc96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\VIMALKUMAR\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\3f3190dd0abd6cc137a093e048dddc96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\VIMALKUMAR\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\3276cebaf259d748738b1c818aec17d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\VIMALKUMAR\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\3276cebaf259d748738b1c818aec17d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\VIMALKUMAR\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\ba7f06c31a147323e14ee842dabc76dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\VIMALKUMAR\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\ba7f06c31a147323e14ee842dabc76dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\VIMALKUMAR\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e85ba8890526e54a6c0d7b6109fbdf0b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\VIMALKUMAR\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e85ba8890526e54a6c0d7b6109fbdf0b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\VIMALKUMAR\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\772552ed813d832a251dedab28d422b2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\VIMALKUMAR\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\772552ed813d832a251dedab28d422b2\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\VIMALKUMAR\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c9b18037af6fc472d08e6a296fcedde6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\VIMALKUMAR\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c9b18037af6fc472d08e6a296fcedde6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\VIMALKUMAR\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\81ff2c99fd45ca94a532ac81d53b5aaa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\VIMALKUMAR\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\81ff2c99fd45ca94a532ac81d53b5aaa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\VIMALKUMAR\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\43537ab8dd8ea26ee533dafa33819df8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\VIMALKUMAR\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\43537ab8dd8ea26ee533dafa33819df8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\VIMALKUMAR\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2f8d40c0dedd1f311d51aaf0c8602205\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\VIMALKUMAR\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2f8d40c0dedd1f311d51aaf0c8602205\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:8:5-10:41
+INJECTED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:8:5-10:41
+	android:targetSdkVersion
+		ADDED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:10:9-38
+		INJECTED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:9:9-35
+		INJECTED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:12:5-17:39
+	android:largeScreens
+		ADDED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:14:9-36
+	android:smallScreens
+		ADDED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:17:9-36
+	android:normalScreens
+		ADDED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:15:9-37
+	android:resizeable
+		ADDED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:16:9-34
+	android:anyDensity
+		ADDED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:13:9-34
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:19:5-75
+	android:name
+		ADDED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:19:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:20:5-80
+	android:name
+		ADDED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:20:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:21:22-78
+uses-permission#android.permission.READ_USER_DICTIONARY
+ADDED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:22:22-76
+uses-permission#android.permission.WRITE_USER_DICTIONARY
+ADDED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:23:5-80
+	android:name
+		ADDED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:23:22-77
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:24:5-25:47
+	tools:ignore
+		ADDED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:25:9-44
+	android:name
+		ADDED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:24:22-70
+application
+ADDED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:27:5-49:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\VIMALKUMAR\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\772552ed813d832a251dedab28d422b2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\VIMALKUMAR\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\772552ed813d832a251dedab28d422b2\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:31:9-41
+	android:hardwareAccelerated
+		ADDED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:29:9-43
+	android:icon
+		ADDED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:30:9-45
+	android:allowBackup
+		ADDED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:28:9-35
+	android:theme
+		ADDED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:32:9-43
+activity#com.vimal.player.Ui
+ADDED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:33:9-43:20
+	android:screenOrientation
+		ADDED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:36:13-49
+	android:label
+		ADDED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:35:13-45
+	android:theme
+		ADDED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:37:13-60
+	android:name
+		ADDED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:34:13-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:38:13-42:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:41:27-74
+service#com.vimal.player.musicPlayer
+ADDED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:45:9-63
+	android:name
+		ADDED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:45:18-61
+activity#com.vimal.player.fullscreen
+ADDED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:47:9-63
+	android:name
+		ADDED from C:\Users\VIMALKUMAR\AndroidStudioProjects\Android-Music-Player-master\app\src\main\AndroidManifest.xml:47:19-61
